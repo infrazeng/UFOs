@@ -1,5 +1,15 @@
 # UFOs
 
+## Tools Used
+
+• JavaScript
+
+• HTML
+
+• CSS
+
+• Visual Studio Code
+
 ## Purpose & Overview
 
 The purpose of this project is to create a webpage that clearly displays data about UFO sightings and filters the data according to certain parameters such as the date, city, state, country, and shape. This way, visitors to the site can choose to only read about the number of cases in a certain locality or time period. To make this website work properly, I had to use an html file that drew data from two JavaScript files, one containing all the data needed for the site and the other containing the application that would make the site work.
