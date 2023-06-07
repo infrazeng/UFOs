@@ -12,7 +12,11 @@
 
 ## Purpose & Overview
 
-The purpose of this project is to create a webpage that clearly displays data about UFO sightings and filters the data according to certain parameters such as the date, city, state, country, and shape. This way, visitors to the site can choose to only read about the number of cases in a certain locality or time period. To make this website work properly, I had to use an html file that drew data from two JavaScript files, one containing all the data needed for the site and the other containing the application that would make the site work.
+The objective of this project is to develop a user-friendly webpage that presents comprehensive information regarding UFO sightings, allowing users to effortlessly filter the data based on specific parameters like date, city, state, country, and shape. This interactive functionality empowers visitors to focus on reading about the number of cases within their desired locality or time frame.
+
+To ensure the seamless functionality of the website, I incorporated an HTML file that seamlessly integrates with two JavaScript files. One JavaScript file encompasses all the necessary data required for the site, while the other JavaScript file houses the application responsible for enabling the site's dynamic functionality.
+
+By employing this setup, users can easily navigate through the webpage, access the relevant UFO sighting data, and leverage the filtering capabilities to cater to their specific interests. The end result is an intuitive and informative website that enhances the user experience and facilitates personalized exploration of UFO sightings.
 
 ## Results
 
